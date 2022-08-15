@@ -1,17 +1,10 @@
-# Desafío: TEST DE API REST
+# Desafío: Aplicar otro Framework
 ## Alumno: Juan Manuel Rodriguez Van Oyen
 
-Desafío: Test de api rest.
+Desafío: Aplicar otro Framework
+
+Se utilizó Fastify para reemplazar Express.
 
 Crear un .env en base al .env_example 
 
-Para ejecutar Firebase deberá configurar ademas del .env la carpeta keys con los datos correspondientes al .json de Firebase
-
-Para realizar los test: 
-
-Iniciar el servidor.
-
-Ejecutar:
-```
-npm test
-```
+Ejecutar el servidor.
